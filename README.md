@@ -1,1 +1,1 @@
-# Pneumonia-Prediction-Model-using-CNNs
+# Pneumonia-Prediction-Model
