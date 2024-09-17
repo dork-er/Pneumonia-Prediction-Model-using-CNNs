@@ -1,7 +1,7 @@
 # Pneumonia-Prediction-Model
 
 We developed a deep-learning model to help classify X-ray photos as positive or negative for pneumonia.
-Dataset: [Chest X-ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+Dataset: [Chest X-ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)<br />
 ML algorithm: Convolutional Neural Networks.
 
 ## Group Members
